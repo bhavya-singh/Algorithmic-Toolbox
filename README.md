@@ -1,5 +1,6 @@
 # Algorithmic-Toolbox
->Course 1/6 in the Data Structures and Algorithms Specialization by University of California San Diego &amp; National Research University Higher School of Economics
+>Course 1/6 in the Data Structures and Algorithms Specialization  
+by University of California San Diego &amp; National Research University Higher School of Economics
 
 - An intermediate level graded course on Coursera.
 - 6 weeks of committment
